@@ -34,9 +34,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parthiv majumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthiv majumdar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/parthiv-majumdar-524046238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthiv majumdar" height="30" width="40" /></a>
 <a href="https://kaggle.com/parthivmajumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parthivmajumdar" height="30" width="40" /></a>
-<a href="https://fb.com/parthiv majumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parthiv majumdar" height="30" width="40" /></a>
+<a href="[https://fb.com/parthiv majumdar](https://www.facebook.com/parthiv.majumdar.1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parthiv majumdar" height="30" width="40" /></a>
 <a href="https://instagram.com/parthivv.v_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthivv.v_" height="30" width="40" /></a>
 </p>
 
